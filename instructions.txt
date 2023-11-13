@@ -14,11 +14,6 @@ https://heroku.com/
 Downloading visual studio code editor
 https://code.visualstudio.com/
 
-express-node-art-project
-Project for express & node course
-Includes instructions for installing packages
-developer url: https://expressdeveloper-723c728f1447.herokuapp.com/
-
 ///////////////////////////////////////////////////////////////
 
 CREATING SCHEMAS
